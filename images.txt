@@ -1,7 +1,7 @@
 nginx
 redis
 mysql
-minio
+minio/minio
 rabbitmq
 kafka
 xuxueli/xxl-job-admin
